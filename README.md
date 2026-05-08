@@ -37,3 +37,6 @@ Framework includes:
 
 ```bash
 npx playwright test
+
+## Git Practice Change
+Updated..
